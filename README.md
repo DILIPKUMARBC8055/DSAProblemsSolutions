@@ -19,4 +19,12 @@ This is a made in order to track the progress and will helpful to other when the
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/0133-clone-graph) |
+## Array
+|  |
+| ------- |
+| [0046-permutations](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/0046-permutations) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
