@@ -24,9 +24,18 @@ This is a made in order to track the progress and will helpful to other when the
 | ------- |
 | [0046-permutations](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/0047-permutations-ii) |
+| [1435-xor-queries-of-a-subarray](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/1435-xor-queries-of-a-subarray) |
 ## Backtracking
 |  |
 | ------- |
 | [0046-permutations](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/0047-permutations-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1435-xor-queries-of-a-subarray](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/1435-xor-queries-of-a-subarray) |
+## Prefix Sum
+|  |
+| ------- |
+| [1435-xor-queries-of-a-subarray](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/1435-xor-queries-of-a-subarray) |
 <!---LeetCode Topics End-->
