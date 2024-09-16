@@ -27,6 +27,7 @@ This is a made in order to track the progress and will helpful to other when the
 | ------- |
 | [0046-permutations](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/0047-permutations-ii) |
+| [0539-minimum-time-difference](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/0539-minimum-time-difference) |
 | [1435-xor-queries-of-a-subarray](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/1435-xor-queries-of-a-subarray) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Backtracking
@@ -57,4 +58,16 @@ This is a made in order to track the progress and will helpful to other when the
 |  |
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+## Math
+|  |
+| ------- |
+| [0539-minimum-time-difference](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/0539-minimum-time-difference) |
+## String
+|  |
+| ------- |
+| [0539-minimum-time-difference](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/0539-minimum-time-difference) |
+## Sorting
+|  |
+| ------- |
+| [0539-minimum-time-difference](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/0539-minimum-time-difference) |
 <!---LeetCode Topics End-->
