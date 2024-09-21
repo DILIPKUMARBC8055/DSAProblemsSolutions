@@ -13,6 +13,7 @@ This is a made in order to track the progress and will helpful to other when the
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/0133-clone-graph) |
+| [0386-lexicographical-numbers](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/0386-lexicographical-numbers) |
 | [0563-binary-tree-tilt](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/0563-binary-tree-tilt) |
 | [0623-add-one-row-to-tree](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/0623-add-one-row-to-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/0671-second-minimum-node-in-a-binary-tree) |
@@ -93,4 +94,8 @@ This is a made in order to track the progress and will helpful to other when the
 |  |
 | ------- |
 | [1818-maximum-score-from-removing-substrings](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/1818-maximum-score-from-removing-substrings) |
+## Trie
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
