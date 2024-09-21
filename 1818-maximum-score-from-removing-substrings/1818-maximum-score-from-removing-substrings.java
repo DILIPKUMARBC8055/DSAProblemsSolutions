@@ -15,19 +15,15 @@ class Solution {
     }
 
     public String helper(String s, int points, char topChar, char bottomChar) {
-        Stack<Character> stack = new Stack<>();
+        StringBuilder sb = new StringBuilder();
         for (char c : s.toCharArray()) {
-            if (!stack.isEmpty() && stack.peek() == topChar && c == bottomChar) {
-                stack.pop();
+            if (sb.length() > 0 && sb.charAt(sb.length() - 1) == topChar && c == bottomChar) {
+                sb.deleteCharAt(sb.length() - 1);  // Pop the last element
                 score += points;
             } else {
-                stack.push(c);
+                sb.append(c);  // Push current character
             }
         }
-        StringBuilder str = new StringBuilder();
-        while (!stack.isEmpty()) {
-            str.append(stack.pop());
-        }
-        return str.reverse().toString();
+        return sb.toString();  // Return remaining string without needing reverse
     }
 }
