@@ -35,6 +35,7 @@ This is a made in order to track the progress and will helpful to other when the
 | [0046-permutations](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/0047-permutations-ii) |
 | [0539-minimum-time-difference](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/0539-minimum-time-difference) |
+| [0729-my-calendar-i](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/0729-my-calendar-i) |
 | [1435-xor-queries-of-a-subarray](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/1435-xor-queries-of-a-subarray) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -102,4 +103,20 @@ This is a made in order to track the progress and will helpful to other when the
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/0386-lexicographical-numbers) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+## Binary Search
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/0729-my-calendar-i) |
+## Design
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/0729-my-calendar-i) |
+## Segment Tree
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/0729-my-calendar-i) |
+## Ordered Set
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/0729-my-calendar-i) |
 <!---LeetCode Topics End-->
