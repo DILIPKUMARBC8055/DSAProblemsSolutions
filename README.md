@@ -37,6 +37,7 @@ This is a made in order to track the progress and will helpful to other when the
 | [0539-minimum-time-difference](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/0539-minimum-time-difference) |
 | [0729-my-calendar-i](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/0729-my-calendar-i) |
 | [1435-xor-queries-of-a-subarray](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/1435-xor-queries-of-a-subarray) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/1497-design-a-stack-with-increment-operation) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Backtracking
@@ -93,6 +94,7 @@ This is a made in order to track the progress and will helpful to other when the
 ## Stack
 |  |
 | ------- |
+| [1497-design-a-stack-with-increment-operation](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Greedy
 |  |
@@ -111,6 +113,7 @@ This is a made in order to track the progress and will helpful to other when the
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/0729-my-calendar-i) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/1497-design-a-stack-with-increment-operation) |
 ## Segment Tree
 |  |
 | ------- |
