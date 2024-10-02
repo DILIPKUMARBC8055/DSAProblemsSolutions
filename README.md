@@ -10,6 +10,7 @@ This is a made in order to track the progress and will helpful to other when the
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1256-rank-transform-of-an-array](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/1256-rank-transform-of-an-array) |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Depth-First Search
 |  |
@@ -41,6 +42,7 @@ This is a made in order to track the progress and will helpful to other when the
 | [1256-rank-transform-of-an-array](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/1256-rank-transform-of-an-array) |
 | [1435-xor-queries-of-a-subarray](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/1435-xor-queries-of-a-subarray) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/1497-design-a-stack-with-increment-operation) |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Backtracking
@@ -95,6 +97,7 @@ This is a made in order to track the progress and will helpful to other when the
 |  |
 | ------- |
 | [0920-uncommon-words-from-two-sentences](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 ## Stack
 |  |
 | ------- |
