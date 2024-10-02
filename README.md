@@ -9,6 +9,7 @@ This is a made in order to track the progress and will helpful to other when the
 | [0133-clone-graph](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/0133-clone-graph) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1256-rank-transform-of-an-array](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/1256-rank-transform-of-an-array) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Depth-First Search
 |  |
@@ -37,6 +38,7 @@ This is a made in order to track the progress and will helpful to other when the
 | [0539-minimum-time-difference](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/0539-minimum-time-difference) |
 | [0729-my-calendar-i](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/0729-my-calendar-i) |
 | [0859-design-circular-deque](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/0859-design-circular-deque) |
+| [1256-rank-transform-of-an-array](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/1256-rank-transform-of-an-array) |
 | [1435-xor-queries-of-a-subarray](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/1435-xor-queries-of-a-subarray) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/1497-design-a-stack-with-increment-operation) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
@@ -88,6 +90,7 @@ This is a made in order to track the progress and will helpful to other when the
 |  |
 | ------- |
 | [0539-minimum-time-difference](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/0539-minimum-time-difference) |
+| [1256-rank-transform-of-an-array](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/1256-rank-transform-of-an-array) |
 ## Counting
 |  |
 | ------- |
