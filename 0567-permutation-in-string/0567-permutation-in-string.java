@@ -40,11 +40,11 @@ class Solution {
         return Arrays.equals(freq1, freq2);
     }
 
-    public int[] reset(int freq[]) {
-        int resetArray[] = new int[freq.length];
-        for (int i = 0; i < freq.length; i++) {
-            resetArray[i] = freq[i];
-        }
-        return resetArray;
-    }
+    // public int[] reset(int freq[]) {
+    //     int resetArray[] = new int[freq.length];
+    //     for (int i = 0; i < freq.length; i++) {
+    //         resetArray[i] = freq[i];
+    //     }
+    //     return resetArray;
+    // }
 }
