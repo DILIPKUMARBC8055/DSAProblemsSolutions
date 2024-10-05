@@ -23,6 +23,7 @@ This is a made in order to track the progress and will helpful to other when the
 | [0623-add-one-row-to-tree](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/0623-add-one-row-to-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [1008-binary-tree-cameras](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/1008-binary-tree-cameras) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -69,6 +70,7 @@ This is a made in order to track the progress and will helpful to other when the
 | [0623-add-one-row-to-tree](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/0623-add-one-row-to-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [1008-binary-tree-cameras](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/1008-binary-tree-cameras) |
 ## Binary Tree
 |  |
 | ------- |
@@ -76,6 +78,7 @@ This is a made in order to track the progress and will helpful to other when the
 | [0623-add-one-row-to-tree](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/0623-add-one-row-to-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [1008-binary-tree-cameras](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/1008-binary-tree-cameras) |
 ## Brainteaser
 |  |
 | ------- |
@@ -152,4 +155,8 @@ This is a made in order to track the progress and will helpful to other when the
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/0567-permutation-in-string) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1008-binary-tree-cameras](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/1008-binary-tree-cameras) |
 <!---LeetCode Topics End-->
