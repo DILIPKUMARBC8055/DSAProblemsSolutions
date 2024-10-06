@@ -46,6 +46,7 @@ This is a made in order to track the progress and will helpful to other when the
 | [1435-xor-queries-of-a-subarray](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/1435-xor-queries-of-a-subarray) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [1923-sentence-similarity-iii](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/1923-sentence-similarity-iii) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -94,6 +95,7 @@ This is a made in order to track the progress and will helpful to other when the
 | [0567-permutation-in-string](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/0567-permutation-in-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/1818-maximum-score-from-removing-substrings) |
+| [1923-sentence-similarity-iii](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/1923-sentence-similarity-iii) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Sorting
 |  |
@@ -150,6 +152,7 @@ This is a made in order to track the progress and will helpful to other when the
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/0567-permutation-in-string) |
+| [1923-sentence-similarity-iii](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/1923-sentence-similarity-iii) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Sliding Window
 |  |
