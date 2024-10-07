@@ -101,6 +101,7 @@ This is a made in order to track the progress and will helpful to other when the
 ## Sorting
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/0295-find-median-from-data-stream) |
 | [0539-minimum-time-difference](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/0539-minimum-time-difference) |
 | [1256-rank-transform-of-an-array](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/1256-rank-transform-of-an-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -131,6 +132,7 @@ This is a made in order to track the progress and will helpful to other when the
 ## Design
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/0295-find-median-from-data-stream) |
 | [0729-my-calendar-i](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/0729-my-calendar-i) |
 | [0859-design-circular-deque](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/0859-design-circular-deque) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/1497-design-a-stack-with-increment-operation) |
@@ -153,6 +155,7 @@ This is a made in order to track the progress and will helpful to other when the
 ## Two Pointers
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/0295-find-median-from-data-stream) |
 | [0567-permutation-in-string](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/0567-permutation-in-string) |
 | [1923-sentence-similarity-iii](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/1923-sentence-similarity-iii) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -168,4 +171,12 @@ This is a made in order to track the progress and will helpful to other when the
 |  |
 | ------- |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/2800-minimum-string-length-after-removing-substrings) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/0295-find-median-from-data-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
