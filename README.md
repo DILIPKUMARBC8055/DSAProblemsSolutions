@@ -96,6 +96,7 @@ This is a made in order to track the progress and will helpful to other when the
 | [0920-uncommon-words-from-two-sentences](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1923-sentence-similarity-iii](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/1923-sentence-similarity-iii) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Sorting
 |  |
@@ -113,6 +114,7 @@ This is a made in order to track the progress and will helpful to other when the
 | ------- |
 | [1497-design-a-stack-with-increment-operation](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Greedy
 |  |
 | ------- |
@@ -162,4 +164,8 @@ This is a made in order to track the progress and will helpful to other when the
 |  |
 | ------- |
 | [1008-binary-tree-cameras](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/1008-binary-tree-cameras) |
+## Simulation
+|  |
+| ------- |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 <!---LeetCode Topics End-->
