@@ -97,6 +97,7 @@ This is a made in order to track the progress and will helpful to other when the
 ## String
 |  |
 | ------- |
+| [0345-reverse-vowels-of-a-string](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0539-minimum-time-difference](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/0539-minimum-time-difference) |
 | [0567-permutation-in-string](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/0567-permutation-in-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -165,6 +166,7 @@ This is a made in order to track the progress and will helpful to other when the
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/0295-find-median-from-data-stream) |
+| [0345-reverse-vowels-of-a-string](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0567-permutation-in-string](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/0567-permutation-in-string) |
 | [1923-sentence-similarity-iii](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/1923-sentence-similarity-iii) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
