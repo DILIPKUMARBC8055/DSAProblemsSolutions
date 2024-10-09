@@ -7,6 +7,7 @@ This is a made in order to track the progress and will helpful to other when the
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/0133-clone-graph) |
+| [0432-all-oone-data-structure](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/0432-all-oone-data-structure) |
 | [0480-sliding-window-median](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/0480-sliding-window-median) |
 | [0567-permutation-in-string](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/0567-permutation-in-string) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -146,6 +147,7 @@ This is a made in order to track the progress and will helpful to other when the
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/0295-find-median-from-data-stream) |
+| [0432-all-oone-data-structure](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/0432-all-oone-data-structure) |
 | [0729-my-calendar-i](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/0729-my-calendar-i) |
 | [0859-design-circular-deque](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/0859-design-circular-deque) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/1497-design-a-stack-with-increment-operation) |
@@ -160,6 +162,7 @@ This is a made in order to track the progress and will helpful to other when the
 ## Linked List
 |  |
 | ------- |
+| [0432-all-oone-data-structure](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/0432-all-oone-data-structure) |
 | [0859-design-circular-deque](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/0859-design-circular-deque) |
 ## Queue
 |  |
@@ -196,4 +199,8 @@ This is a made in order to track the progress and will helpful to other when the
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/0295-find-median-from-data-stream) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0432-all-oone-data-structure](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/0432-all-oone-data-structure) |
 <!---LeetCode Topics End-->
