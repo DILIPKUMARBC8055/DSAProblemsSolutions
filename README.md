@@ -47,6 +47,7 @@ This is a made in order to track the progress and will helpful to other when the
 | [0539-minimum-time-difference](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/0539-minimum-time-difference) |
 | [0729-my-calendar-i](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/0729-my-calendar-i) |
 | [0859-design-circular-deque](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/0859-design-circular-deque) |
+| [1002-maximum-width-ramp](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/1002-maximum-width-ramp) |
 | [1256-rank-transform-of-an-array](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/1256-rank-transform-of-an-array) |
 | [1435-xor-queries-of-a-subarray](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/1435-xor-queries-of-a-subarray) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/1497-design-a-stack-with-increment-operation) |
@@ -124,6 +125,7 @@ This is a made in order to track the progress and will helpful to other when the
 |  |
 | ------- |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1002-maximum-width-ramp](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/1002-maximum-width-ramp) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -203,4 +205,8 @@ This is a made in order to track the progress and will helpful to other when the
 |  |
 | ------- |
 | [0432-all-oone-data-structure](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/0432-all-oone-data-structure) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1002-maximum-width-ramp](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/1002-maximum-width-ramp) |
 <!---LeetCode Topics End-->
