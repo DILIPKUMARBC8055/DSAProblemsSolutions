@@ -55,6 +55,7 @@ This is a made in order to track the progress and will helpful to other when the
 | [1923-sentence-similarity-iii](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/1923-sentence-similarity-iii) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Backtracking
 |  |
@@ -136,6 +137,7 @@ This is a made in order to track the progress and will helpful to other when the
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/2616-maximal-score-after-applying-k-operations) |
 ## Trie
 |  |
 | ------- |
@@ -197,6 +199,7 @@ This is a made in order to track the progress and will helpful to other when the
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/0295-find-median-from-data-stream) |
 | [0480-sliding-window-median](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/0480-sliding-window-median) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/2616-maximal-score-after-applying-k-operations) |
 ## Data Stream
 |  |
 | ------- |
