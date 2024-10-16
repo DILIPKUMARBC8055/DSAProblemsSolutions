@@ -10,6 +10,7 @@ This is a made in order to track the progress and will helpful to other when the
 | [0432-all-oone-data-structure](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/0432-all-oone-data-structure) |
 | [0480-sliding-window-median](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/0480-sliding-window-median) |
 | [0567-permutation-in-string](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/0567-permutation-in-string) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1256-rank-transform-of-an-array](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/1256-rank-transform-of-an-array) |
@@ -46,6 +47,7 @@ This is a made in order to track the progress and will helpful to other when the
 | [0047-permutations-ii](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/0047-permutations-ii) |
 | [0480-sliding-window-median](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/0480-sliding-window-median) |
 | [0539-minimum-time-difference](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/0539-minimum-time-difference) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0729-my-calendar-i](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/0729-my-calendar-i) |
 | [0859-design-circular-deque](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/0859-design-circular-deque) |
 | [1002-maximum-width-ramp](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/1002-maximum-width-ramp) |
@@ -121,6 +123,7 @@ This is a made in order to track the progress and will helpful to other when the
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/0295-find-median-from-data-stream) |
 | [0539-minimum-time-difference](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/0539-minimum-time-difference) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1256-rank-transform-of-an-array](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/1256-rank-transform-of-an-array) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -141,6 +144,7 @@ This is a made in order to track the progress and will helpful to other when the
 ## Greedy
 |  |
 | ------- |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1304-longest-happy-string](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/1304-longest-happy-string) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -198,6 +202,7 @@ This is a made in order to track the progress and will helpful to other when the
 | ------- |
 | [0480-sliding-window-median](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/0480-sliding-window-median) |
 | [0567-permutation-in-string](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/0567-permutation-in-string) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -211,6 +216,7 @@ This is a made in order to track the progress and will helpful to other when the
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/0295-find-median-from-data-stream) |
 | [0480-sliding-window-median](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/0480-sliding-window-median) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1304-longest-happy-string](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/1304-longest-happy-string) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
