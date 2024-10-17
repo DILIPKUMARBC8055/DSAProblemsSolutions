@@ -103,6 +103,7 @@ This is a made in order to track the progress and will helpful to other when the
 |  |
 | ------- |
 | [0539-minimum-time-difference](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/0539-minimum-time-difference) |
+| [0670-maximum-swap](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/0670-maximum-swap) |
 ## String
 |  |
 | ------- |
@@ -145,6 +146,7 @@ This is a made in order to track the progress and will helpful to other when the
 |  |
 | ------- |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0670-maximum-swap](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/0670-maximum-swap) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1304-longest-happy-string](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/1304-longest-happy-string) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/1818-maximum-score-from-removing-substrings) |
