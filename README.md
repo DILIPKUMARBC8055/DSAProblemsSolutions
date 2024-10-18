@@ -57,6 +57,7 @@ This is a made in order to track the progress and will helpful to other when the
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1923-sentence-similarity-iii](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/1923-sentence-similarity-iii) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -67,10 +68,12 @@ This is a made in order to track the progress and will helpful to other when the
 | ------- |
 | [0046-permutations](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/0047-permutations-ii) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [1435-xor-queries-of-a-subarray](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/1435-xor-queries-of-a-subarray) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Prefix Sum
 |  |
@@ -235,4 +238,8 @@ This is a made in order to track the progress and will helpful to other when the
 |  |
 | ------- |
 | [1002-maximum-width-ramp](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/1002-maximum-width-ramp) |
+## Enumeration
+|  |
+| ------- |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 <!---LeetCode Topics End-->
