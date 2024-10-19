@@ -6,6 +6,7 @@ This is a made in order to track the progress and will helpful to other when the
 ## Hash Table
 |  |
 | ------- |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0133-clone-graph](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/0133-clone-graph) |
 | [0432-all-oone-data-structure](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/0432-all-oone-data-structure) |
 | [0480-sliding-window-median](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/0480-sliding-window-median) |
@@ -45,6 +46,7 @@ This is a made in order to track the progress and will helpful to other when the
 | ------- |
 | [0046-permutations](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/0047-permutations-ii) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0480-sliding-window-median](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/0480-sliding-window-median) |
 | [0539-minimum-time-difference](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/0539-minimum-time-difference) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -83,6 +85,7 @@ This is a made in order to track the progress and will helpful to other when the
 ## Tree
 |  |
 | ------- |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0404-sum-of-left-leaves](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/0404-sum-of-left-leaves) |
 | [0563-binary-tree-tilt](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/0563-binary-tree-tilt) |
 | [0623-add-one-row-to-tree](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/0623-add-one-row-to-tree) |
@@ -92,6 +95,7 @@ This is a made in order to track the progress and will helpful to other when the
 ## Binary Tree
 |  |
 | ------- |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0404-sum-of-left-leaves](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/0404-sum-of-left-leaves) |
 | [0563-binary-tree-tilt](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/0563-binary-tree-tilt) |
 | [0623-add-one-row-to-tree](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/0623-add-one-row-to-tree) |
@@ -248,4 +252,8 @@ This is a made in order to track the progress and will helpful to other when the
 |  |
 | ------- |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/1667-find-kth-bit-in-nth-binary-string) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 <!---LeetCode Topics End-->
