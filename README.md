@@ -64,6 +64,7 @@ This is a made in order to track the progress and will helpful to other when the
 | [1002-maximum-width-ramp](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/1002-maximum-width-ramp) |
 | [1256-rank-transform-of-an-array](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/1256-rank-transform-of-an-array) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1435-xor-queries-of-a-subarray](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/1435-xor-queries-of-a-subarray) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -243,6 +244,7 @@ This is a made in order to track the progress and will helpful to other when the
 |  |
 | ------- |
 | [1008-binary-tree-cameras](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/1008-binary-tree-cameras) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 ## Simulation
 |  |
 | ------- |
@@ -283,4 +285,8 @@ This is a made in order to track the progress and will helpful to other when the
 |  |
 | ------- |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+## Matrix
+|  |
+| ------- |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 <!---LeetCode Topics End-->
