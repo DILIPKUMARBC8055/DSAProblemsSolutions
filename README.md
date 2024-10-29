@@ -78,6 +78,7 @@ This is a made in order to track the progress and will helpful to other when the
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/2586-longest-square-streak-in-an-array) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2794-maximum-number-of-moves-in-a-grid](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Backtracking
 |  |
@@ -250,6 +251,7 @@ This is a made in order to track the progress and will helpful to other when the
 | [1008-binary-tree-cameras](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/1008-binary-tree-cameras) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2586-longest-square-streak-in-an-array](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/2586-longest-square-streak-in-an-array) |
+| [2794-maximum-number-of-moves-in-a-grid](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Simulation
 |  |
 | ------- |
@@ -294,4 +296,5 @@ This is a made in order to track the progress and will helpful to other when the
 |  |
 | ------- |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [2794-maximum-number-of-moves-in-a-grid](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 <!---LeetCode Topics End-->
