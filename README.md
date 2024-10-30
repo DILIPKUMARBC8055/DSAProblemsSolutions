@@ -69,6 +69,7 @@ This is a made in order to track the progress and will helpful to other when the
 | [1435-xor-queries-of-a-subarray](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/1435-xor-queries-of-a-subarray) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1923-sentence-similarity-iii](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/1923-sentence-similarity-iii) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -187,6 +188,7 @@ This is a made in order to track the progress and will helpful to other when the
 | [0670-maximum-swap](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/0670-maximum-swap) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1304-longest-happy-string](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/1304-longest-happy-string) |
+| [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -202,6 +204,7 @@ This is a made in order to track the progress and will helpful to other when the
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/0729-my-calendar-i) |
+| [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2586-longest-square-streak-in-an-array](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/2586-longest-square-streak-in-an-array) |
 ## Design
 |  |
@@ -250,6 +253,7 @@ This is a made in order to track the progress and will helpful to other when the
 | ------- |
 | [1008-binary-tree-cameras](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/1008-binary-tree-cameras) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2586-longest-square-streak-in-an-array](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/2586-longest-square-streak-in-an-array) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Simulation
