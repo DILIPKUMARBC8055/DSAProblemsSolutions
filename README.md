@@ -157,6 +157,7 @@ This is a made in order to track the progress and will helpful to other when the
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3195-separate-black-and-white-balls](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/3195-separate-black-and-white-balls) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3451-string-compression-iii](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/3451-string-compression-iii) |
 ## Sorting
 |  |
 | ------- |
