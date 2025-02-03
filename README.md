@@ -84,6 +84,7 @@ This is a made in order to track the progress and will helpful to other when the
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3291-find-if-array-can-be-sorted](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/3291-find-if-array-can-be-sorted) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/DILIPKUMARBC8055/DSAProblemsSolutions/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 ## Backtracking
 |  |
 | ------- |
